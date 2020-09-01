@@ -1,0 +1,24 @@
+1. Difference between Population and Sample?
+2. Difference between population mean and sample mean?
+3. What is the importance of Standard Normal Distribution?
+4. Difference between PDF and CDF? Which scenarios are preferable for CDF?
+5. By using CDF, can we calculate percentile?
+6. Difference between Bagging and Boosting?
+7. Difference between overfitting and under fitting data?
+8. What should be polynomial degree based on overfitting and under fitting in Linear Regression?
+9. What is Bias-variance tradeoff?
+10. What will be bias and variance for overfit and under fit data?
+11. What is the difference between R-squared and Adjusted R-squared?
+12. What steps should we follow while solving a regression problem if there are some outliers?
+13. What is SVM? Explain it advantages and disadvantages. In which scenario it will fail, explain its limitation?
+14. Difference between soft margin and hard margin?
+15. Explain boosting algorithms - Gradient Boost, AdaBoost, XGBoost.
+16. Explain Decision Trees?
+17. Explain Clustering algorithms?
+18. Explain KNN. In which case we should not use KNN?
+19. Explain top down and bottom up approach?
+20. Explain K-Means algorithm?
+21. Is K-Means top down or bottom up approach?
+22. What are the various distance metrics used in ML models?
+23. Explain difference between Euclidean distance and Manhattan distance?
+24. Can we apply Euclidean distance instead of Hamming distance for categorical data?
